@@ -4,10 +4,21 @@
         <title>yyyooi Site Blog</title>
         <link>https://yyyooi.github.io/blog</link>
         <description>yyyooi Site Blog</description>
-        <lastBuildDate>Thu, 26 Aug 2021 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 13 Mar 2023 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh</language>
+        <item>
+            <title><![CDATA[今天我好高兴]]></title>
+            <link>https://yyyooi.github.io/blog/happy</link>
+            <guid>https://yyyooi.github.io/blog/happy</guid>
+            <pubDate>Mon, 13 Mar 2023 00:00:00 GMT</pubDate>
+            <description><![CDATA[今天天气真不错 我们来上课]]></description>
+            <content:encoded><![CDATA[<p>今天天气真不错 我们来上课</p><p>uuu</p><p>就将计就计</p><p>eeee</p>]]></content:encoded>
+            <category>随笔</category>
+            <category>诗</category>
+            <category>里美丽</category>
+        </item>
         <item>
             <title><![CDATA[Welcome]]></title>
             <link>https://yyyooi.github.io/blog/welcome</link>
